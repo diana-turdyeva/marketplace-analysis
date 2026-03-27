@@ -1,7 +1,10 @@
-Marketplace Analysis
+Проект по продуктовой аналитике маркетплейса
 
-Project for product analytics:
-- monthly retention
+Структура:
+- месячный retention
 - product/market fit
-- key product metrics
-- ICE prioritization
+- ключевые продуктовые метрики
+- ICE 
+
+Для запуска ноутбука необходимо поместить исходные CSV-файлы в папку data/.
+Основной файл решения: final_report.ipynb
